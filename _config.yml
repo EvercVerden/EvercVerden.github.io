@@ -1,9 +1,9 @@
 # Site settings
 title: Everc Blog
-SEOTitle: 我的博客 | My Blog
+SEOTitle: From - Owl'Everc
 header-img: img/post-bg-desk.jpg
-email: 暂无
-description: "那些隔绝黑暗的光和水"
+email: O14748120@outlook.com
+description: "Owl'Everc"
 keyword: "我的博客"
 url: "http://EvercVerden.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
@@ -11,11 +11,11 @@ github_repo: "https://github.com/EvercVerden/EvercVerden.github.io.git" # you co
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "苟利国家生死以，岂因祸福避趋之~"
+sidebar-about-description: "一蓑烟雨任平生"
 sidebar-avatar: /img/avatar_binggan.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
-
+ 
 # SNS settings
 RSS: false
 # weibo_username:     暂无
@@ -83,7 +83,7 @@ ga_domain:                # 默认的是 auto, 这里我是自定义了的域名
 
 # Featured Tags
 featured-tags: true                     # 是否使用首页标签
-featured-condition-size: 1              # 相同标签数量大于这个数，才会出现在首页
+featured-condition-size: 0              # 相同标签数量大于这个数，才会出现在首页
 
 
 
