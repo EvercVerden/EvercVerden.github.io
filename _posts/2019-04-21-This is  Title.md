@@ -11,10 +11,13 @@ tags:
 ---
 
 
-# Title
+# Golang实现邮件发送
+
+---
 
 Golang使用gomail包进行发送，举例一个代码实现
 
+```
 package main
 
 import (
@@ -119,3 +122,6 @@ func main() {
     InitEmail(myEmail)
     SendEmail(subject, body)
 }
+
+```
+---
